@@ -1,0 +1,23 @@
+*{
+    color: rgb(109, 0, 188);
+}
+h1{
+    color:gold;
+}
+/* #headingtwo{ */
+   background-color:blue;
+   color: darkkhaki;
+}
+#headingone{
+    color: darkred;
+}
+/* .myclass{ */
+    color: rgb(235, 10, 130);
+}
+h1,h2,h3{
+    color: darkmagenta;
+}
+button{
+    background-color: rgb(45, 8, 229);
+    color:whitesmoke ;
+}
